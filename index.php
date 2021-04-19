@@ -1,1 +1,1 @@
-<?php echo 'thanks hana  good '; ?>
+<?php echo 'thank'; ?>
